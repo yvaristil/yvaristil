@@ -13,7 +13,7 @@
 -->
 - :red_circle: &nbsp;I'm currently located in &nbsp;**🇫🇮**
 - :red_circle: &nbsp;My interest are targeted, but not limited to everything aerospace & multmedia production
-- :red_circle: &nbsp;I’m currently working on the fundamentals of this thing called coding (Java, HTML, React Apps)
+- :red_circle: &nbsp;I’m currently working on the fundamentals of this thing called coding (Java, HTML, React Apps), as well as CAD applications (Onshape)
 - :red_circle: &nbsp;I'm looking to grow my technical skills
 - :red_circle: &nbsp;Learn more about my projects **<a href="https://linktr.ee/yvaristil" target="_blank">here</a>**
 
