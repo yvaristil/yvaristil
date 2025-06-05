@@ -1,5 +1,5 @@
 <h1 align="left" id="yvaristil-title">Salut, mon prénom est Yusuf, mais tu peux m'appeler le votre </h1>
-<h3 align="left">I utilize creative thinking </h3>
+<h3 align="left"> </h3>
 
 [![page views](https://komarev.com/ghpvc/?username=yvaristil&label=profile+views)](https://github.com/yvaristil/yvaristil)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://linktr.ee/yvaristil)
