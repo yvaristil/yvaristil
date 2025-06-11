@@ -2,7 +2,7 @@
 <h3 align="left"> </h3>
 
 [![page views](https://komarev.com/ghpvc/?username=yvaristil&label=profile+views)](https://github.com/yvaristil/yvaristil)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://linktr.ee/yvaristil)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fyvaristil.studio)](https://www.yvaristil.studio)
 [![GitHub followers](https://img.shields.io/github/followers/yvaristil?style=flat&logo=github)](https://github.com/yvaristil?tab=followers)
 [![Stars](https://img.shields.io/github/stars/yvaristil?style=flat&logo=github)](https://github.com/yvaristil?tab=stars)
 
