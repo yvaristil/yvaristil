@@ -21,5 +21,5 @@
 - :red_circle: &nbsp;Learn more about my projects **<a href="https://linktr.ee/yvaristil" target="_blank">here</a>**
 
 
-I thank **<a href="https://github.com/OtsoBear" target="_blank">OtsoBear</a>** for the code for this bio. I lack the skills (for now)
+
 
