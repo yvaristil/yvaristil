@@ -4,7 +4,7 @@
 
 <!--[![page views](https://komarev.com/ghpvc/?username=yvaristil&label=profile+views)](https://github.com/yvaristil/yvaristil)-->
 ![Name](https://img.shields.io/badge/Yusuf-Aristil-red)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fyvaristil.stuudio)]()
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fyvaristil.studio)]()
 [![GitHub followers](https://img.shields.io/github/followers/yvaristil?style=flat&logo=github-red)](https://github.com/yvaristil?tab=followers)
 [![Stars](https://img.shields.io/github/stars/yvaristil?style=flat&logo=github)](https://github.com/yvaristil?tab=stars)
 
