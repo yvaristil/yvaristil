@@ -18,7 +18,7 @@
 - :red_circle: &nbsp;I’m currently working on the fundamentals of this thing called coding (Java, HTML, React Apps), as well as CAD applications (Onshape)
 - :red_circle: &nbsp;I'm looking to grow my technical skills
 - :red_circle: &nbsp;Somewhat active on Github since 2022
-- :red_circle: &nbsp;Learn more about my projects **<a href="https://linktr.ee/yvaristil" target="_blank">here</a>**
+- :red_circle: &nbsp;Learn more about my projects **<a href="https://yvaristil.studio" target="_blank">here</a>**
 
 
 
